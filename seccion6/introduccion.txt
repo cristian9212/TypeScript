@@ -1,0 +1,5 @@
+TypeScript esta diseñadp para ser un lenguaje de tipado.
+En el echo poder tener un tipo de dato any es basicamente
+contraproducente en el lenguaje y genera ciertos errrores. 
+
+para ellos nacen los datos o el tipado generico.
